@@ -161,6 +161,7 @@
     <tr><td>58</td><td>Groq Cloud</td><td><a href="https://groq.com/groqcloud" target="_blank">https://groq.com/groqcloud</a></td><td>🔓🎉🌎</td><td>Demandez une clé API gratuite, points de terminaison compatibles OpenAI avec vitesse extrême</td></tr>
     <tr><td>59</td><td>Cerebras Inference</td><td><a href="https://inference.cerebras.ai" target="_blank">https://inference.cerebras.ai</a></td><td>🔓🎉🌎🚀</td><td>1M de tokens gratuits par jour et débit d'inférence jusqu'à 450+ tok/s</td></tr>
     <tr><td>60</td><td>Infini GenStudio</td><td><a href="https://cloud.infini-ai.com/genstudio" target="_blank">https://cloud.infini-ai.com/genstudio</a></td><td>🆓🎉</td><td>Les tokens DeepSeek R1/V3 pleine puissance sont gratuits—aucun code d'invitation requis</td></tr>
+    <tr><td>61</td><td>AI Router</td><td><a href="https://ai-router.dev/fr" target="_blank">https://ai-router.dev/fr</a></td><td>🔓🎁😆💰</td><td>Relais API compatible OpenAI ; 5U à l’inscription, jusqu’à 15U débloqués 1:1 par des recharges éligibles ; check-in quotidien : 1 $ + 2 % des dépenses de la veille. Service non officiel d’OpenAI.</td></tr>
   </tbody>
 </table>
 

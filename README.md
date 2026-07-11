@@ -259,6 +259,7 @@
 <tr><td>100</td><td>VimsAI API 聚合平台</td><td><a href="https://www.vimsai.com" target="_blank">https://www.vimsai.com</a></td><td>💰🎉✨✌💪</td><td>兼容 OpenAI 标准的全球 AI 模型接入平台，900+ 模型。</td></tr>
 <tr><td>101</td><td>xcode</td><td><a href="https://xcode.best/" target="_blank">https://xcode.best/</a></td><td></td><td>claudecode专用，多渠道支持</td></tr>
 <tr><td>102</td><td>skapi</td><td><a href="https://jk.skcdn.cn/" target="_blank">https://jk.skcdn.cn/</a></td><td></td><td>支持claudecode,价额便宜</td></tr>
+<tr><td>103</td><td>AI Router</td><td><a href="https://ai-router.dev/cn" target="_blank">https://ai-router.dev/cn</a></td><td>🔓🎁😆💰</td><td>OpenAI 兼容 API 中转；注册直接解锁 5U，最多 15U 在符合条件的充值后按 1:1 解锁；每日签到 1 USD + 昨日消费额 2%。非 OpenAI 官方服务。</td></tr>
 </tbody></table>
 
 
