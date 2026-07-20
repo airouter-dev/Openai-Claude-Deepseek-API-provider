@@ -161,7 +161,7 @@
     <tr><td>58</td><td>Groq Cloud</td><td><a href="https://groq.com/groqcloud" target="_blank">https://groq.com/groqcloud</a></td><td>🔓🎉🌎</td><td>Apply for a free API key, OpenAI-compatible endpoints with extreme speed</td></tr>
     <tr><td>59</td><td>Cerebras Inference</td><td><a href="https://inference.cerebras.ai" target="_blank">https://inference.cerebras.ai</a></td><td>🔓🎉🌎🚀</td><td>1M free tokens per day and up to 450+ tok/s inference throughput</td></tr>
     <tr><td>60</td><td>Infini GenStudio</td><td><a href="https://cloud.infini-ai.com/genstudio" target="_blank">https://cloud.infini-ai.com/genstudio</a></td><td>🆓🎉</td><td>DeepSeek R1/V3 full-power tokens are free—no invite code required</td></tr>
-    <tr><td>61</td><td>AI Router</td><td><a href="https://ai-router.dev" target="_blank">https://ai-router.dev</a></td><td>🔓🎁😆💰</td><td>OpenAI-compatible API relay; 5U after signup, up to 15U unlocked 1:1 with eligible top-ups, and daily check-in rewards of $1 plus 2% of the previous day's spend. Not an official OpenAI service.</td></tr>
+    <tr><td>61</td><td>AI Router</td><td><a href="https://ai-router.dev" target="_blank">https://ai-router.dev</a></td><td></td><td>Independent OpenAI-compatible API relay. Use a personal API key and review usage; query <code>/v1/models</code> and the site for current availability. Not an official OpenAI service.</td></tr>
   </tbody>
 </table>
 

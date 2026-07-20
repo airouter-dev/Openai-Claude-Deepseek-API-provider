@@ -161,7 +161,7 @@
     <tr><td>58</td><td>Groq Cloud</td><td><a href="https://groq.com/groqcloud" target="_blank">https://groq.com/groqcloud</a></td><td>🔓🎉🌎</td><td>Заявка на бесплатный API-ключ, OpenAI-совместимые конечные точки с высокой скоростью</td></tr>
     <tr><td>59</td><td>Cerebras Inference</td><td><a href="https://inference.cerebras.ai" target="_blank">https://inference.cerebras.ai</a></td><td>🔓🎉🌎🚀</td><td>1M бесплатных токенов ежедневно и скорость вывода до 450+ ток/с</td></tr>
     <tr><td>60</td><td>Infini GenStudio</td><td><a href="https://cloud.infini-ai.com/genstudio" target="_blank">https://cloud.infini-ai.com/genstudio</a></td><td>🆓🎉</td><td>DeepSeek R1/V3 full-power токены бесплатны, без инвайт-кодов</td></tr>
-    <tr><td>61</td><td>AI Router</td><td><a href="https://ai-router.dev/ru" target="_blank">https://ai-router.dev/ru</a></td><td>🔓🎁😆💰</td><td>OpenAI-совместимый API-релей; 5U после регистрации, до 15U разблокируется 1:1 при соответствующих пополнениях; ежедневный check-in: $1 + 2% расходов за вчера. Не официальный сервис OpenAI.</td></tr>
+    <tr><td>61</td><td>AI Router</td><td><a href="https://ai-router.dev/ru" target="_blank">https://ai-router.dev/ru</a></td><td></td><td>Независимый API-релей, совместимый с OpenAI. Используйте персональный API-ключ и отслеживайте расход; актуальную доступность проверяйте через <code>/v1/models</code> и сайт. Неофициальный сервис OpenAI.</td></tr>
   </tbody>
 </table>
 
